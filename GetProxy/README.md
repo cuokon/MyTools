@@ -2,7 +2,7 @@
 
 ## 介绍
 采用多进程+协程的方式进行爬取,爬取的内容会写入到proxy.txt
-[](!https://github.com/cuokon/MyTools/tree/master/GetProxy/end.png)
+![运行结果](https://github.com/cuokon/MyTools/blob/master/GetProxy/end.png)
 ## 环境
 python3
 python库
@@ -15,7 +15,7 @@ optparse
 ```
 ### 用法
 python3 proxy -h
-[](!https://github.com/cuokon/MyTools/tree/master/GetProxy/help.png)
+![帮助信息](https://github.com/cuokon/MyTools/tree/master/GetProxy/help.png)
 参数有
 ```
 -h: 获取帮助信息
